@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEg//EYzUNfUErN5LUGgDZj8k1gDeJHtDlAHWAITFEoXIYoG0A5r+XB8TKRzmTDQ10D/sgTms8V5vj8zQBTKfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gaelt\\OneDrive\\ProjetC#\\jeu_du_pendu8\\jeu_du_pendu8\\Tigongue Gaël\\jeu_du_pendu\\jeu_du_pendu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaelt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gaelt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gaelt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gaelt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
